@@ -1,0 +1,6 @@
+# my_interfaces/action/Countdown.action
+int32 starting_number
+---
+int32 ending_number
+---
+int32 current_number
